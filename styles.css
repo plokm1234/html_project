@@ -1,0 +1,111 @@
+#intro {
+    background-color: #1FCD98;
+}
+
+.navbar {
+    position: fixed;
+    width: 100%;
+    top: 0;
+    z-index: 1;
+}
+
+.top {
+    margin-bottom: 56px;
+}
+
+.big-heading {
+    text-align: center;
+    font-size: 48px;
+    /* margin: 10%; */
+    padding-top: 10%;
+}
+
+.download-button {
+    margin: 5% 12%;
+}
+
+.icon {
+    margin: 0 40%;
+    margin-bottom: 1rem;
+    
+}
+
+.feature-box {
+    padding: 4.5%;
+}
+
+#features {
+    text-align: center;
+    position: relative;
+    padding: 5% 0%;
+}
+  
+.feature-title {
+    text-align: center;
+    font-size: 1.5rem;
+}
+
+#testimonials{
+    font-size: 25px;
+    background-color: #21CE99;
+    padding: 5% 0%;
+    height: 600px
+}
+
+.reviews {
+    text-align: center;
+    font-size: 40px;
+    margin-bottom: 5%;
+}
+
+.testimonial-image {
+    width: 10%;
+    border-radius: 100%;
+    margin: 2% 40%;
+}
+
+.customCarousel{
+    padding: 2% 15%;
+}
+
+#price {
+    padding: 5% 0%;
+}
+
+.price-heading {
+    text-align: center;
+    margin: 2%;
+}
+
+.card {
+    text-align: center;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+#download {
+    background-color: #1FCD98;
+    padding: 5% 0%;
+}
+
+.downloadHeading {
+    text-align: center;
+    font-size: 48px;
+    padding: 5%;
+}
+
+.download {
+    text-align: center;
+    margin: auto;
+    padding: 2%;
+}
+
+.downloadButton {
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+#footer {
+    text-align: center;
+    margin-top: 5%;
+}
